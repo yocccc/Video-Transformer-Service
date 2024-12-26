@@ -12,10 +12,9 @@ mp4 mov webmファイルでの動作は確認済み。
 - 動画の解像度を変更する
 - 動画のアスペクト比を変更する
 - 動画をオーディオだけのmp3に変換する
-- 指定した時間範囲からGIFもしくはMOVを作成する
+- 指定した時間範囲からGIFもしくはWEBMを作成する
 
-カレントディレクトリのprocessedフォルダに処理後のファイルが置かれます、
 ```
-ffmpeg-pythonのインストール
+ffmpeg-pythonライブラリのインストール
 pip install ffmpeg-python
 ```
